@@ -1,3 +1,3 @@
 PostgreSQL: Relational, support JSONB. 
 ClickHouse: Columnar, very fast for analytics.
-Redis: Key-value, works in RAM.
+Re123is: Key-value, works in RAM.
