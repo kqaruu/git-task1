@@ -1,0 +1,1 @@
+MySQL is the world's most popular open source database, widely used for web applications and known for its reliability and speed.
