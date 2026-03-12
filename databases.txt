@@ -1,3 +1,8 @@
 PostgreSQL: Relational, support JSONB. 
 ClickHouse: Columnar, very fast for analytics.
 Re123is: Key-value, works in RAM.
+
+Database Types:
+- Relational (MySQL, PostgreSQL)
+- NoSQL (MongoDB, Cassandra)
+- Key-Value (Redis)
